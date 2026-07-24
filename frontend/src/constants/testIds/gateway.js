@@ -1,0 +1,28 @@
+// Test IDs for the Musafir Media Publications gateway (landing) page.
+
+export const GATEWAY = {
+  nav: "gateway-nav",
+  navLogo: "gateway-nav-logo",
+  navLinkHome: "gateway-nav-link-home",
+  navLinkHub: "gateway-nav-link-hub",
+  navLinkImaa: "gateway-nav-link-imaa",
+  navLinkPodcast: "gateway-nav-link-podcast",
+  navLinkContact: "gateway-nav-link-contact",
+  hero: "gateway-hero",
+  heroHeadline: "gateway-hero-headline",
+  gateHub: "gateway-gate-hub",
+  gateImaa: "gateway-gate-imaa",
+  gatePodcast: "gateway-gate-podcast",
+  about: "gateway-about",
+  brandsMarquee: "gateway-brands-marquee",
+  newsletterForm: "gateway-newsletter-form",
+  newsletterEmail: "gateway-newsletter-email",
+  newsletterSubmit: "gateway-newsletter-submit",
+  contactForm: "gateway-contact-form",
+  contactFirstName: "gateway-contact-first-name",
+  contactLastName: "gateway-contact-last-name",
+  contactEmail: "gateway-contact-email",
+  contactMessage: "gateway-contact-message",
+  contactSubmit: "gateway-contact-submit",
+  footer: "gateway-footer",
+};
